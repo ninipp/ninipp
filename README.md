@@ -1,6 +1,6 @@
 ## Welcome on NINIPP Github profil 👋
 ## Nininahazwe Parfait
-[Photo de profil](C:\Users\Sirius\ninipp\Images\profil.JPG)
+![Photo de profil](./Images/profil.JPG)
 
 ### - 😎 I’m currently working on my Github profile
 ### - 💻 I’m currently learning Web Dev
